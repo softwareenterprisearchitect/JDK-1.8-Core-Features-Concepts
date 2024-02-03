@@ -2,6 +2,7 @@
 > A default method is an interface method that has an implementation.To add new functionality to an interface while keeping backward compatibility with existing classes that implement the interface, we can utilise a default method:
 
 '''java
+
 public interface Vehicle {
     public void move();
     default void hoot() {
