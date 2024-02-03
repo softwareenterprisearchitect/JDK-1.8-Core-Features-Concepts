@@ -10,9 +10,10 @@ interface Square {
 }
 '''
 
+
 # Implements Functional Interface
 
-```java  
+``` java  
 class Test {
     public static void main(String args[])
     {
