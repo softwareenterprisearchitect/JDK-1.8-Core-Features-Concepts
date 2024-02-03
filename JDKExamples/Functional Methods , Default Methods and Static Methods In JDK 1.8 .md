@@ -6,7 +6,7 @@
 > static Method: 0/1 to ... N static methods.
 
 
-```java 
+``` java 
 package com.jdk18.exmp.fp
 
 
@@ -36,7 +36,7 @@ public interface Interface1 {
 # Implementing Functional Interfaces In Java :
 > We can implement functional interfaces in same way as regular interfaces by implementing it in subclasses.
 
-```java
+``` java
 public class MyClass implements Interface1, Interface2 {
 
 	@Override
