@@ -1,6 +1,8 @@
 # Functional Methods , Default Methods and Static Methods In JDK 1.8 
-> @FunctionalInterface : 1 and only one abstract method in Java 
+> @FunctionalInterface : 1 and only one abstract method in Java
+
 > default Method : 0/1 to ... N default methods.
+
 > static Method: 0/1 to ... N static methods.
 
 
