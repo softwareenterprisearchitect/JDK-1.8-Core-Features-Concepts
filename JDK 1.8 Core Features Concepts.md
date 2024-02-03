@@ -25,6 +25,14 @@ We have already seen forEach() method and Stream API for collections. Some new m
 - Map replaceAll(), compute(), merge() methods.
 - Performance Improvement for HashMap class with Key Collisions
 
+## Java Time API
+- It has always been hard to work with Date, Time, and Time Zones in java. There was no standard approach or API in java for date and time in Java.
+- One of the nice addition in Java 8 is the java.time package that will streamline the process of working with time in java.
+
+- Just by looking at Java Time API packages, I can sense that they will be very easy to use.
+- It has some sub-packages java.time.format that provides classes to print and parse dates and times and java.time.zone provides support for time zones and their rules.
+- The new Time API prefers enums over integer constants for months and days of the week. One of the useful classes is DateTimeFormatter for converting DateTime objects to strings. 
+
 ##Java IO improvements
 Some IO improvements known to me are:
 
